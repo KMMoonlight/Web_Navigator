@@ -1,24 +1,5 @@
 # web_navigator
+一个简单的网站导航页
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://raw.githubusercontent.com/KMMoonlight/Web_Navigator/master/navigator.png)
